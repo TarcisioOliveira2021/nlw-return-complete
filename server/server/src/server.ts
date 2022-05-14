@@ -12,6 +12,6 @@ app.use(routes);
 
 
 //Porta que o servidor irá escutar.
-app.listen(3333, () => {
+app.listen(process.env.PORT || 3333, () => {
     console.log('server is running')
 });
