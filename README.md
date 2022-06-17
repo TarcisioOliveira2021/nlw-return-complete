@@ -8,7 +8,7 @@ Feedback Widget
 https://nlw-return-complete-feedback-widget-80grjugd4.vercel.app/
 
 ## Deploy Front
-Usando Versel.
+Usando Vercel.
 
 ## Deploy Back
 Usando o Railway.
